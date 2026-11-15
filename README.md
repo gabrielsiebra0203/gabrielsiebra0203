@@ -75,3 +75,19 @@ Me chamo  GabrieL Braga Siebra, tenho 24 anos e sou natural de Fortelza ce. sou 
   />
 
 </p>
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img
+    height="180"
+    src="./profile/stats.svg"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    height="180"
+    src="./profile/top-langs.svg"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
